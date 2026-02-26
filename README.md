@@ -18,6 +18,12 @@ This project demonstrates an **Unmanaged RAP Scenario** for managing Sales data 
 
 
 
+## ✅ Sales Application Output
+
+![Sales Output](https://github.com/user-attachments/assets/e8f7e7b2-ade4-4b3b-a039-1104eaf40691)
+
+
+
 ## 🚀 Features
 
 - Unmanaged RAP Scenario
