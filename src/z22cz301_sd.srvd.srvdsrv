@@ -1,0 +1,5 @@
+@EndUserText.label: 'This is the Header'
+define service Z22CZ301_SD {
+  expose Z22CZ301_I_SLS    as HEADER;
+  expose Z22CZ301_I_SLSITM as ITEM;
+}
